@@ -1,7 +1,23 @@
+body{
+    background-color: pink;
+    background: url("https://i.pinimg.com/474x/79/d2/c5/79d2c59e791ad15e44a4548a6741cc9d.jpg");
+    
+}
+
+
 p{
-    color: green;
+    color:#85C1E9;
     font-size: 20px;
     margin: 25px 50px 75px;
     padding: 100px 20px 30px ;
-    
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+div{
+    width: 320px;
+    background-color: lightgray;
+    border: 5px solid green;
+    padding: 10px;
+    margin: 0px;
 }
