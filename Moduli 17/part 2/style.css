@@ -1,0 +1,60 @@
+:root{
+    --primary-color:darkblue;
+    --secondary-color:white;
+    --padding:20px;
+
+}
+h1{
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding: var(--padding);
+}
+p{
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding: var(--padding);
+}
+#example-one{
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    background-color: green;
+}
+#example-two{
+    margin: 30px;
+    width: 150px;
+    height: 150px;
+    border-radius:10px ;
+    border: 3px solid yellow;
+}
+#example-three{
+    margin: 30px;
+    width: 150px;
+    height: 150px;
+    border-radius:10px ;
+    border: 3px solid darkgoldenrod;
+}
+#example-four{
+    margin: 30px;
+    width: 150px;
+    height: 150px;
+    border-radius:5px 60px 5px;
+    border: 3px solid red;
+}
+#example-five{
+    margin: 30px;
+    width: 150px;
+    height: 150px;
+    border-radius:10px / 30px ;
+    border: 3px solid blue;
+    background-color: brown;
+}
+#example-six{
+    margin: 30px;
+    width: 150px;
+    height: 150px;
+    border: radius 30px / 10px; ;
+    border: 3px solid purple;
+    background-color: darkslateblue;
+}
