@@ -1,0 +1,47 @@
+.test{
+    font-size: 100px;
+    color: aquamarine;
+    background-color: lightgrey;
+    padding: 20px;
+    margin-top: 100px;
+    border: 1px solid black;
+    text-align: center;
+    transition: 1s ease;
+    transform: scale(0.9);
+}
+
+.test2{
+    display: none;
+
+}
+
+#Square{
+
+   font-size: 100%;
+   color: aliceblue;
+   width: 60px;
+   height: 60px;
+   background-color: chocolate;
+  padding: 20px 20px 25px 25px;
+
+
+
+   border: 2px solid red;
+  
+
+
+}
+#Circle{
+    width: ;
+    font-size: 200%;
+    color: blue;
+    background-color: blue;
+    padding
+    padding-left: ;
+    padding-right: ;
+    padding-bottom: ;
+}
+
+#Rectangle{
+    width: 0cqb;
+}
