@@ -24,7 +24,7 @@ programmingLanguages.splice(0,2, "Rubby")
 console.log(programmingLanguages)
 
 console.log(Math.random()*5)
-console.log(math.floor(math.random())*6)
+console.log(Math.floor(Math.random())*6)
 
 var students = ["John","Mike"]
 var [s1,s2] = students;
@@ -36,7 +36,7 @@ var places =("London","Paris","New York","Berlin")
 var [first,second] = places
 
 console.log(first)
-console.log(Second)
+console.log(second)
 
 var numbers =[1,2,3,4,5,6,7,8,9,10]
 var[firstNum,SecondNum,...otherNums]=numbers
